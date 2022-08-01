@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_lastname", "UC2_lastnam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc3_email", "Uc3_email\Uc3_email.csproj", "{FF4DC442-44DE-4B62-97A6-39D0CA45EFBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC4-mobile", "UC4-mobile\UC4-mobile.csproj", "{C892AEDD-7921-4EB6-B34C-E352F3CCCEA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FF4DC442-44DE-4B62-97A6-39D0CA45EFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF4DC442-44DE-4B62-97A6-39D0CA45EFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF4DC442-44DE-4B62-97A6-39D0CA45EFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C892AEDD-7921-4EB6-B34C-E352F3CCCEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C892AEDD-7921-4EB6-B34C-E352F3CCCEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C892AEDD-7921-4EB6-B34C-E352F3CCCEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C892AEDD-7921-4EB6-B34C-E352F3CCCEA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

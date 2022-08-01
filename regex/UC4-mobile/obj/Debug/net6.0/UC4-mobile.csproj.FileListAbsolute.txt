@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\bin\Debug\net6.0\UC4-mobile.exe
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\bin\Debug\net6.0\UC4-mobile.deps.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\bin\Debug\net6.0\UC4-mobile.runtimeconfig.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\bin\Debug\net6.0\UC4-mobile.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\bin\Debug\net6.0\UC4-mobile.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\refint\UC4-mobile.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\UC4-mobile.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC4-mobile\obj\Debug\net6.0\ref\UC4-mobile.dll
