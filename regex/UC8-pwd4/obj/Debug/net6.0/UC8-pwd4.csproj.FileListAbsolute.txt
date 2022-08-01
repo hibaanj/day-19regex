@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\bin\Debug\net6.0\UC8-pwd4.exe
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\bin\Debug\net6.0\UC8-pwd4.deps.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\bin\Debug\net6.0\UC8-pwd4.runtimeconfig.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\bin\Debug\net6.0\UC8-pwd4.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\bin\Debug\net6.0\UC8-pwd4.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\refint\UC8-pwd4.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\UC8-pwd4.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC8-pwd4\obj\Debug\net6.0\ref\UC8-pwd4.dll
