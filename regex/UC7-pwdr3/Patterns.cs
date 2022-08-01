@@ -10,7 +10,7 @@ namespace UC7_pwdr3
     internal class Patterns
     {
         //atleast one uppercase
-        public static string regexrule = "^[a-zA-Z0-9]{8}$";
+        public static string regexrule = "^[a-zA-Z0-9]{7}([0-9]+)$";
         public bool Stringvalid(string password)
         {
             return Regex.IsMatch(password, regexrule);

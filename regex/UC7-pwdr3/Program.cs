@@ -2,7 +2,7 @@
 
 
 Patterns pt = new Patterns();
-if (pt.Stringvalid("hib1267B"))
+if (pt.Stringvalid("hibsdfy8"))
 {
     Console.WriteLine("valid");
 }
