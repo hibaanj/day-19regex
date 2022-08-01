@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\bin\Debug\net6.0\Uc3_email.exe
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\bin\Debug\net6.0\Uc3_email.deps.json
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\bin\Debug\net6.0\Uc3_email.runtimeconfig.json
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\bin\Debug\net6.0\Uc3_email.dll
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\bin\Debug\net6.0\Uc3_email.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.dll
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\refint\Uc3_email.dll
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\Uc3_email.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day-19regex\regex\Uc3_email\obj\Debug\net6.0\ref\Uc3_email.dll
