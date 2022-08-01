@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\bin\Debug\net6.0\UC9-emails.exe
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\bin\Debug\net6.0\UC9-emails.deps.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\bin\Debug\net6.0\UC9-emails.runtimeconfig.json
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\bin\Debug\net6.0\UC9-emails.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\bin\Debug\net6.0\UC9-emails.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\refint\UC9-emails.dll
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.pdb
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\UC9-emails.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day-19regex\regex\UC9-emails\obj\Debug\net6.0\ref\UC9-emails.dll
